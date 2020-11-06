@@ -10,6 +10,10 @@ instructions](https://docs.docker.com/engine/installation/).
 
 This repository is solely maintained by Docker, Inc.
 
+## AMI
+
+ami-0e82959d4ed12de3f
+
 ## Usage:
 
 From `https://get.docker.com`:
